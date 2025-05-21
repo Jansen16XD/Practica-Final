@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff8e1;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: #ff595e;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 15px;
+    margin-top: 10px;
+    padding: 0;
+  }
+  
+  .nav a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .nav a:hover,
+  .nav a.active {
+    background: white;
+    color: #ff595e;
+    font-weight: bold;
+  }
+  
+  .boss-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+  }
+  
+  .boss-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    padding: 1rem;
+    text-align: center;
+    transition: transform 0.3s;
+  }
+  
+  .boss-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .boss-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .intro {
+    max-width: 1000px;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    background-color: #fffaf3;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .intro h2 {
+    color: #b33636;
+    margin-top: 2rem;
+  }
+  
+  .intro p, .intro li, .intro ol {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.7;
+  }
+  
+  .intro ul, .intro ol {
+    margin-left: 2rem;
+  }
