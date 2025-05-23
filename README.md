@@ -32,16 +32,15 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ## Capturas de pantalla
 
+### Pagina de Inicio
+
+### Pagina de Armas
+
 ### Pagina de Isla 1
-![Isla 1](captura-isla1.png)
 
-### Rey Dado y el Diablo (Isla 3)
-![Rey Dado](captura-kingdice.png)  
-![El Diablo](captura-diablo.png)
+### Pagina de Isla 2
 
-### Armas
-![Armas](captura-armas.png)
+### Pagina de Isla 3
 
----
+### Pagina del DLC
 
-## 📁 Contenido del repositorio
