@@ -32,15 +32,27 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ## Capturas de pantalla
 
+
 ### Pagina de Inicio
+
+
 
 ### Pagina de Armas
 
+
+
 ### Pagina de Isla 1
+
+
 
 ### Pagina de Isla 2
 
+
+
 ### Pagina de Isla 3
 
+
+
 ### Pagina del DLC
+
 
