@@ -35,13 +35,24 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ### Pagina de Inicio
 
+![alt text](1-1.png)
 
+![alt text](<Screenshot_20250524_011810_Samsung Internet.jpg>)
+
+![alt text](<Captura desde 2025-05-24 02-31-01.png>)
 
 ### Pagina de Armas
 
+![alt text](2.png)
 
+![alt text](<Screenshot_20250524_011818_Samsung Internet.jpg>)
+
+![alt text](<Captura desde 2025-05-24 02-31-31.png>)
 
 ### Pagina de Isla 1
+
+
+
 
 
 
