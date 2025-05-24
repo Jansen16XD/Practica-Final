@@ -51,19 +51,32 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ### Pagina de Isla 1
 
+![alt text](3.png)
 
+![alt text](<Screenshot_20250524_011829_Samsung Internet.jpg>)
 
-
-
+![alt text](<Captura desde 2025-05-24 02-31-55.png>)
 
 ### Pagina de Isla 2
 
+![alt text](4.png)
 
+![alt text](<Screenshot_20250524_011835_Samsung Internet.jpg>)
+
+![alt text](<Captura desde 2025-05-24 02-32-26.png>)
 
 ### Pagina de Isla 3
 
+![alt text](5.png)
 
+![alt text](<Screenshot_20250524_011845_Samsung Internet.jpg>)
+
+![alt text](<Captura desde 2025-05-24 02-32-39.png>)
 
 ### Pagina del DLC
 
+![alt text](6.png)
 
+![alt text](<Screenshot_20250524_011850_Samsung Internet.jpg>)
+
+![alt text](<Captura desde 2025-05-24 02-32-56.png>)
