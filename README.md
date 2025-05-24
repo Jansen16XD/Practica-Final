@@ -33,7 +33,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 ## Capturas de pantalla
 
 
-### Pagina de Inicio
+# Pagina de Inicio
 
 ![alt text](1-1.png)
 
@@ -41,7 +41,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ![alt text](<Captura desde 2025-05-24 02-31-01.png>)
 
-### Pagina de Armas
+# Pagina de Armas
 
 ![alt text](2.png)
 
@@ -49,7 +49,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ![alt text](<Captura desde 2025-05-24 02-31-31.png>)
 
-### Pagina de Isla 1
+# Pagina de Isla 1
 
 ![alt text](3.png)
 
@@ -57,7 +57,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ![alt text](<Captura desde 2025-05-24 02-31-55.png>)
 
-### Pagina de Isla 2
+# Pagina de Isla 2
 
 ![alt text](4.png)
 
@@ -65,7 +65,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ![alt text](<Captura desde 2025-05-24 02-32-26.png>)
 
-### Pagina de Isla 3
+# Pagina de Isla 3
 
 ![alt text](5.png)
 
@@ -73,7 +73,7 @@ Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi
 
 ![alt text](<Captura desde 2025-05-24 02-32-39.png>)
 
-### Pagina del DLC
+# Pagina del DLC
 
 ![alt text](6.png)
 
