@@ -13,7 +13,7 @@ La web esta dividida en diferentes archivos HTML:
 - **isla1.html**: jefes de la primera isla.
 - **isla2.html**: jefes de la segunda isla.
 - **isla3.html**: jefes de la tercera isla.
-- **dlc.html**: jefes del DLC (no he incluido los del tablero de ajedrez).
+- **dlc.html**: jefes del DLC.
 
 Todas las paginas tienen un **menu de navegacion** arriba y un **footer** con mi nombre. Tambien he usado <section> para agrupar contenido y <article> para cada jefe.
 
